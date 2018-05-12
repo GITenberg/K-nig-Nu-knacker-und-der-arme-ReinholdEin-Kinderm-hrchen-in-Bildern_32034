@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4233
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Hoffmann_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32034#K-nig-Nu-knacker-und-der-arme-ReinholdEin-Kinderm-hrchen-in-Bildern
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
