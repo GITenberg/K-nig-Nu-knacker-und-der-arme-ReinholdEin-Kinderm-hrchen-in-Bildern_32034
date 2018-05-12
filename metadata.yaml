@@ -1,0 +1,38 @@
+_repo: K-nig-Nu-knacker-und-der-arme-ReinholdEin-Kinderm-hrchen-in-Bildern_32034
+_version: 0.1.0
+alternative_title: "König Nussknacker und der arme Reinhold\r\nEin Kindermährchen\
+  \ in Bildern"
+covers:
+- cover_type: archival
+  image_path: 32034-h/images/illo_cover.jpg
+creator:
+  author:
+    agent_name: Hoffmann, Heinrich
+    aliases:
+    - Hoffman, Heinrich
+    - Hoffmann-Donner, Heinrich
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '4233'
+    url: http://www.gutenberg.org/2009/agents/4233
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Hoffmann_%28author%29
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32034'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, German'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile poetry'
+title: 'König Nußknacker und der arme Reinhold
+
+  Ein Kindermährchen in Bildern'
+url: http://www.gutenberg.org/ebooks/32034
